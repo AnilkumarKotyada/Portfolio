@@ -26,7 +26,7 @@ function Resume({ containerRef, closeApplication }) {
   const getBody = () => {
     return (
       <object
-        data="https://tomato-tamarah-54.tiiny.site"
+        data="https://scarlet-josi-47.tiiny.site"
         width="800"
         height="500"
       ></object>
